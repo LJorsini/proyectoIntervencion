@@ -1,0 +1,27 @@
+.header {
+    background-image: url(../img/banner.jpg) ;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.navbar .div-navbar a  {
+    color: white;
+}
+.texto-header {
+    position: absolute;
+    height: 8rem;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    
+}
+.h1-header, .parrafo-header {
+    color: white;
+    text-align: center;
+    
+}
